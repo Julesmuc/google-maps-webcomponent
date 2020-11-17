@@ -1,0 +1,16 @@
+{
+  "name": "lit-html-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "es-dev-server --app-index index.html --node-resolve --watch --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openlayers-elements/maps": "^0.2.0-beta.0",
+    "@polymer/paper-slider": "^3.0.1",
+    "es-dev-server": "^1.57.8"
+  }
+}
